@@ -48,10 +48,3 @@ public class HomeWorkAppTwo {
         return false;
     }
 }
-
-
-
-
-
-
-
