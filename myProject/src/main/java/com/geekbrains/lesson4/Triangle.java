@@ -2,8 +2,7 @@ package com.geekbrains.lesson4;
 
 public class Triangle
 {
-    public static double triangleGeron(int a, int b, int c)
-    {
+    public static double triangleGeron(int a, int b, int c) {
         double a1 = a;
         double b1 = b;
         double c1 = c;
